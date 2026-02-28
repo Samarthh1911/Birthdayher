@@ -184,7 +184,7 @@ export default function HeroSection({ onUnlocked }) {
           filter: 'drop-shadow(0 0 40px rgba(255,77,141,0.5))',
           marginBottom: '1rem',
         }}>
-          Aastha
+          Madam ji
         </h1>
 
         <p style={{
